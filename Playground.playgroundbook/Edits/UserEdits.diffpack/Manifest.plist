@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BaseVersion</key>
+	<string>1.0</string>
+	<key>DiffPackType</key>
+	<string>UserEdit</string>
+	<key>DocumentType</key>
+	<string>PlaygroundBook</string>
+	<key>Name</key>
+	<string>com.apple.playgrounds.blank</string>
+	<key>UpdateVersion</key>
+	<string>1.0</string>
+	<key>Updates</key>
+	<dict>
+		<key>Added</key>
+		<array>
+			<dict>
+				<key>File</key>
+				<string>Chapters/Chapter1.playgroundchapter/Pages/My Playground.playgroundpage/UserManifest.plist</string>
+			</dict>
+			<dict>
+				<key>File</key>
+				<string>Chapters/Chapter1.playgroundchapter/UserManifest.plist</string>
+			</dict>
+			<dict>
+				<key>File</key>
+				<string>UserModules/剑指Offer.playgroundmodule/Sources/03数组中重复的数字.swift</string>
+			</dict>
+			<dict>
+				<key>File</key>
+				<string>UserModules/剑指Offer.playgroundmodule/Sources/04二维数组中的查找.swift</string>
+			</dict>
+			<dict>
+				<key>File</key>
+				<string>UserModules/剑指Offer.playgroundmodule/Sources/05替换空格.swift</string>
+			</dict>
+			<dict>
+				<key>File</key>
+				<string>UserModules/剑指Offer.playgroundmodule/Sources/06从尾到头打印链表.swift</string>
+			</dict>
+			<dict>
+				<key>File</key>
+				<string>UserModules/剑指Offer.playgroundmodule/Sources/07重建二叉树.swift</string>
+			</dict>
+			<dict>
+				<key>File</key>
+				<string>UserModules/剑指Offer.playgroundmodule/Sources/09用两个栈实现队列.swift</string>
+			</dict>
+		</array>
+		<key>Modified</key>
+		<array>
+			<dict>
+				<key>Diff</key>
+				<string>Chapters/Chapter1.playgroundchapter/Pages/My Playground.playgroundpage/main.swift.delta</string>
+				<key>File</key>
+				<string>Chapters/Chapter1.playgroundchapter/Pages/My Playground.playgroundpage/main.swift</string>
+			</dict>
+		</array>
+		<key>Removed</key>
+		<array>
+			<dict>
+				<key>File</key>
+				<string>UserModules/UserModule.playgroundmodule/Sources/SharedCode.swift</string>
+			</dict>
+		</array>
+		<key>Replaced</key>
+		<array/>
+	</dict>
+</dict>
+</plist>
