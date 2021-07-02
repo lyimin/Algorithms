@@ -24,9 +24,11 @@ print(res)
 let r = replaceSpace("we ff ee")
 print(r)
 
+let f = fib(38)
+print(f)
 </string>
 			<key>ModifiedRange</key>
-			<string>{1, 288}</string>
+			<string>{1, 313}</string>
 			<key>OriginalContent</key>
 			<string></string>
 			<key>OriginalRange</key>
