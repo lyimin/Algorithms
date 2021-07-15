@@ -35,10 +35,9 @@ print(t)
 			<key>ModifiedRange</key>
 			<string>{0, 371}</string>
 			<key>OriginalContent</key>
-			<string>
-</string>
+			<string></string>
 			<key>OriginalRange</key>
-			<string>{0, 1}</string>
+			<string>{0, 0}</string>
 		</dict>
 	</array>
 	<key>File</key>
