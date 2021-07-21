@@ -88,6 +88,10 @@
 				<key>File</key>
 				<string>UserModules/剑指Offer.playgroundmodule/Sources/22链表中倒数第k个节点.swift</string>
 			</dict>
+			<dict>
+				<key>File</key>
+				<string>UserModules/剑指Offer.playgroundmodule/Sources/24反转链表.swift</string>
+			</dict>
 		</array>
 		<key>Modified</key>
 		<array>
