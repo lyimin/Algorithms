@@ -20,7 +20,7 @@
    1
  返回 true，因为 B 与 A 的一个子树拥有相同的结构和节点值。
  */
-
+/*
 func isSubStructure(_ A: TreeNode?, _ B: TreeNode?) -> Bool {
     if A == nil || B == nil {
         return false 
@@ -39,3 +39,4 @@ func recur(_ a: TreeNode?, _ b: TreeNode?) -> Bool {
     }
     return false
 }
+*/
