@@ -116,6 +116,10 @@
 				<key>File</key>
 				<string>UserModules/剑指Offer.playgroundmodule/Sources/31栈的压入、弹出序列.swift</string>
 			</dict>
+			<dict>
+				<key>File</key>
+				<string>UserModules/剑指Offer.playgroundmodule/Sources/32从上到下打印二叉树.swift</string>
+			</dict>
 		</array>
 		<key>Modified</key>
 		<array>
