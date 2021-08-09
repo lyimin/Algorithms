@@ -1,2 +1,1 @@
-# Algorithms
-剑指Offer算法
+LeetCode Topics
