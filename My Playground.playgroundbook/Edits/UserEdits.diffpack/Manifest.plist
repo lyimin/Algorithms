@@ -124,6 +124,10 @@
 				<key>File</key>
 				<string>UserModules/剑指Offer.playgroundmodule/Sources/34二叉树中和为某一值的路径.swift</string>
 			</dict>
+			<dict>
+				<key>File</key>
+				<string>UserModules/剑指Offer.playgroundmodule/Sources/36二叉搜索树与双向链表.swift</string>
+			</dict>
 		</array>
 		<key>Modified</key>
 		<array>
