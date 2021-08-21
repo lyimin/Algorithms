@@ -33,9 +33,17 @@ let t = movingCount(m: 2, n: 3, k: 1)
 print(t)
 
  */
+func getLeastNumbers(_ arr: [Int], _ k: Int) -&gt; [Int] {
+    let newArray = arr.sorted(by: { $0 &lt; $1})
+    let set = Set(newArray)
+    return Array(Array(set)[..&lt;k])
+}
+
+let arr = [3, 1, 2]
+print(getLeastNumbers(arr, 2))
 </string>
 			<key>ModifiedRange</key>
-			<string>{0, 374}</string>
+			<string>{0, 593}</string>
 			<key>OriginalContent</key>
 			<string></string>
 			<key>OriginalRange</key>

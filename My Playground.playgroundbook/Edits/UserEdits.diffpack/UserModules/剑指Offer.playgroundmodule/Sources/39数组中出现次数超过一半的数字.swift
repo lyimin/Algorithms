@@ -21,3 +21,9 @@ func majorityElement(_ nums: [Int]) -> Int {
     }
     return x
 }
+
+func getLeastNumbers(_ arr: [Int], _ k: Int) -> [Int] {
+    let newArray = arr.sorted(by: { $0 < $1})
+    let set = Set(newArray)
+    return Array(Array(set)[..<k])
+}

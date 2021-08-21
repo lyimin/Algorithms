@@ -16,7 +16,7 @@
    
  */
 
-private class Solution {
+private class Solution2 {
     
     private var res: [[Int]] = []
     
